@@ -104,7 +104,7 @@ Todos y cada uno de estos casos han sido creados para llevar el correcto proceso
 
 ## 4. Creacion del diagrama de clases UML
 
-![Diagrama de clases](Diagrama/Diagrama_clases.png)
+![Diagrama de clases](diagrams/Diagrama_clases.png)
 
 Este diagrama nos permite definir la estructura logica del sistema, representando las clases, atributos, métodos y como se relacionan entre estos.
 La Estructura del sistema estan divididos en 3 clases, las clases de entidad, control e interfaz. La clases de entidad están formadas por la clase Equipo, Jugador, Torneo,... Las clases de control manejan la lógica y los flujos entre entidades, como pueden ser la clases partida, clasificación, premio... Por último las clases de intarfaz representan la interacción que va a existir entre sistena y actores en este caso serán la clase Administrador y Arbitro.
